@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # portfolio-template
 A basic html/css template for web concentration portfolio 1 students
 
@@ -6,3 +7,6 @@ Download this template and use it to build a simple portfolio website. There are
 https://docs.google.com/presentation/d/1ybdws_K_1xUW_wzs9dlSobAagYgSCbpZaJKJ1cLyp6k/edit?usp=sharing
 
 Using this template requires a basic understanding of HTML and CSS
+=======
+# Portfolio
+>>>>>>> a0fec4b992d0ad7c8a52a70e61da751de72e0bf1
